@@ -1,0 +1,12 @@
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\bin\Debug\Impresion Arreglo VB.exe.config
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\bin\Debug\Impresion Arreglo VB.exe
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\bin\Debug\Impresion Arreglo VB.pdb
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\bin\Debug\Impresion Arreglo VB.xml
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion Arreglo VB.vbprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion_Arreglo_VB.Form1.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion_Arreglo_VB.FormResultado.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion_Arreglo_VB.Resources.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion Arreglo VB.vbproj.GenerateResource.Cache
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion Arreglo VB.exe
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion Arreglo VB.xml
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo VB\Impresion Arreglo VB\obj\Debug\Impresion Arreglo VB.pdb

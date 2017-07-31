@@ -1,0 +1,9 @@
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\bin\Debug\conejos Parametrizados.exe.config
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\bin\Debug\conejos Parametrizados.exe
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\bin\Debug\conejos Parametrizados.pdb
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\obj\Debug\conejos Parametrizados.csprojResolveAssemblyReference.cache
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\obj\Debug\conejos_Parametrizados.Form1.resources
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\obj\Debug\conejos_Parametrizados.Properties.Resources.resources
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\obj\Debug\conejos Parametrizados.csproj.GenerateResource.Cache
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\obj\Debug\conejos Parametrizados.exe
+C:\Users\josed\AppData\Local\Temporary Projects\conejos Parametrizados\obj\Debug\conejos Parametrizados.pdb

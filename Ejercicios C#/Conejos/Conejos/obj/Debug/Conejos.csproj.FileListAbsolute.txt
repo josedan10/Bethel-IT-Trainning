@@ -1,0 +1,6 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Conejos\Conejos\bin\Debug\Conejos.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Conejos\Conejos\bin\Debug\Conejos.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Conejos\Conejos\bin\Debug\Conejos.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Conejos\Conejos\obj\Debug\Conejos.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Conejos\Conejos\obj\Debug\Conejos.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Conejos\Conejos\obj\Debug\Conejos.pdb

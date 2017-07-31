@@ -1,0 +1,20 @@
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\bin\Debug\Impresion Arreglo.exe.config
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\bin\Debug\Impresion Arreglo.exe
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\bin\Debug\Impresion Arreglo.pdb
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion Arreglo.csprojResolveAssemblyReference.cache
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion_Arreglo.Form1.resources
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion_Arreglo.FormResultado.resources
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion_Arreglo.Properties.Resources.resources
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion Arreglo.csproj.GenerateResource.Cache
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion Arreglo.exe
+C:\Users\josed\AppData\Local\Temporary Projects\Impresion Arreglo\obj\Debug\Impresion Arreglo.pdb
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\bin\Debug\Impresion Arreglo.exe.config
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\bin\Debug\Impresion Arreglo.exe
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\bin\Debug\Impresion Arreglo.pdb
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion Arreglo.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion_Arreglo.Form1.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion_Arreglo.FormResultado.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion_Arreglo.Properties.Resources.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion Arreglo.csproj.GenerateResource.Cache
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion Arreglo.exe
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Impresion Arreglo\Impresion Arreglo\obj\Debug\Impresion Arreglo.pdb

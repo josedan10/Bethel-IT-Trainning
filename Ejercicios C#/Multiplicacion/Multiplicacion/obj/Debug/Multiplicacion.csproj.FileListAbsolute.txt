@@ -1,0 +1,6 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.pdb

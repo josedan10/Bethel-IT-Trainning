@@ -1,0 +1,67 @@
+1.- Marcados de procedimientos y marcados semánticos
+Son los elementos que todo lenguaje de marcado debe tener.
+
+	° Presentación - Formato
+	° Procedimiento - Cómo se muestra
+	° Descriptivo - Etiquetas, lugares en donde se guarda el texto
+*SGML
+*COMPILACIÓN
+Lenguajes de marcados que existen
+
+2.- ¿Cómo se ejecuta un msj en memoria?
+3.- Stackoverflow
+4.- Estructura de datos en la gestión de memoria
+
+http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
+http://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm
+https://www.youtube.com/watch?v=42KTvGYQYnA
+https://www.youtube.com/watch?v=p3q5zWCw8J4
+https://www.youtube.com/watch?v=0jhQBQcGnuM
+
+
+http://www.ubuntu-es.org/node/21169#.WPl-6oy0l0s
+https://www.redeszone.net/2015/04/11/lnav-visor-sucesos-linux/
+https://www.youtube.com/watch?v=XETZoRYdtkw
+https://www.youtube.com/watch?v=F0Ri2TpRBBg
+https://www.youtube.com/watch?v=uVh7WjwEvBo
+
+	Stack
+	Datos
+	Heap
+	Fetch
+	Prefetch
+
+	CPU, Caché
+
+5.- Paginación
+
+	Caché
+	RAM
+	Memoria virtual
+
+6.- Operadores
+	Aritméticos
+	Concatenación
+	Referencia
+	Lógicos
+
+SCRUM
+MVC
+
+7.- Lenguajes orientados a objetos, orientados a eventos, orientados a servicios, y orientados a arquitecturas.
+8.- Estructura de datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

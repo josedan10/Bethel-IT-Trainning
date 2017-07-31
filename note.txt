@@ -1,0 +1,27 @@
+Estructura de HTML
+Conceptos básicos de HTML
+Interacción con otros lenguajes
+
+Estructura de lenguaje CSS
+Cómo se vincula con CSS
+
+Cómo escribir y usar esas estructuras en los lenguajes que hemos utilizado
+
+Bloques:
+	-Experiencia{
+		-Entrada
+		-Salida
+	}
+
+	-Procesos{
+		-Calculos
+		-Operativos
+		-Logica
+		-Sistema
+	}
+	-Sistema{
+		-Sistemas de terceros
+		-Bases de Datos
+		-API
+	}
+	

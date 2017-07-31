@@ -1,0 +1,11 @@
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.exe.config
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.exe
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.pdb
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.xml
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.vbprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.Form1.resources
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.Resources.resources
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.vbproj.GenerateResource.Cache
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.exe
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.xml
+C:\Users\josed\Documents\Bethel trainning\Tareas Java\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.pdb

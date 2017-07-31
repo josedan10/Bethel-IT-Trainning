@@ -1,0 +1,6 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Resolvente\Resolvente\bin\Debug\Resolvente.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Resolvente\Resolvente\bin\Debug\Resolvente.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Resolvente\Resolvente\bin\Debug\Resolvente.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Resolvente\Resolvente\obj\Debug\Resolvente.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Resolvente\Resolvente\obj\Debug\Resolvente.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Resolvente\Resolvente\obj\Debug\Resolvente.pdb

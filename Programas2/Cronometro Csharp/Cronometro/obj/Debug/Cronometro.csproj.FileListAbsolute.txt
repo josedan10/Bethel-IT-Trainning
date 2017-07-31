@@ -1,0 +1,9 @@
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\josed\Documents\Bethel trainning\Programas2\Cronometro\Cronometro\obj\Debug\Cronometro.pdb

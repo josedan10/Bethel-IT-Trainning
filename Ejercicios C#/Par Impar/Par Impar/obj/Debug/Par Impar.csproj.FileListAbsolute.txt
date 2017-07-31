@@ -1,0 +1,6 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Par Impar\Par Impar\bin\Debug\Par Impar.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Par Impar\Par Impar\obj\Debug\Par Impar.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Par Impar\Par Impar\bin\Debug\Par Impar.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Par Impar\Par Impar\bin\Debug\Par Impar.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Par Impar\Par Impar\obj\Debug\Par Impar.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Par Impar\Par Impar\obj\Debug\Par Impar.pdb

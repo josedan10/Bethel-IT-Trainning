@@ -1,0 +1,5 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\fibonacci\fibonacci\obj\Debug\fibonacci.pdb

@@ -1,0 +1,6 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Triangulo\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Triangulo\Triangulo\obj\Debug\Triangulo.pdb

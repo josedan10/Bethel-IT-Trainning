@@ -1,0 +1,13 @@
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\bin\Debug\Operaciones con Arreglos vb.exe.config
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\bin\Debug\Operaciones con Arreglos vb.exe
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\bin\Debug\Operaciones con Arreglos vb.pdb
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\bin\Debug\Operaciones con Arreglos vb.xml
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones con Arreglos vb.vbprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones_con_Arreglos.Form1.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones_con_Arreglos.FormRecepcionDatos.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones_con_Arreglos.Resources.resources
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones con Arreglos vb.vbproj.GenerateResource.Cache
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones con Arreglos vb.exe
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones con Arreglos vb.xml
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones con Arreglos vb.pdb
+C:\Users\josed\Documents\Bethel IT trainning\Tareas Java\Operaciones con Arreglos vb\Operaciones con Arreglos vb\obj\Debug\Operaciones_con_Arreglos.FormResultado.resources

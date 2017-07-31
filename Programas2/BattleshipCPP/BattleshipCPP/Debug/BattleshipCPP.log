@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\users\josed\documents\visual studio 2017\projects\battleshipcpp\battleshipcpp\MyForm.h(210): warning C4101: 'j': unreferenced local variable
+  BattleshipCPP.vcxproj -> C:\Users\josed\Documents\Visual Studio 2017\Projects\BattleshipCPP\Debug\BattleshipCPP.exe

@@ -1,0 +1,10 @@
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\bin\Debug\Paralelogramo.exe.config
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\bin\Debug\Paralelogramo.exe
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\bin\Debug\Paralelogramo.pdb
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.Form1.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.FormDibujo.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.Properties.Resources.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.csproj.GenerateResource.Cache
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.exe
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Paralelogramo\obj\Debug\Paralelogramo.pdb

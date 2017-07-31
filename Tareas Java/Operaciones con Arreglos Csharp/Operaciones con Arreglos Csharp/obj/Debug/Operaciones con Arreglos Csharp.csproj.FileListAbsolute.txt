@@ -1,0 +1,11 @@
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones con Arreglos Csharp.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones_con_Arreglos_Csharp.Form1.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones_con_Arreglos_Csharp.Forms.FormRecepcionDatos.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones_con_Arreglos_Csharp.Forms.FormResultado.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones_con_Arreglos_Csharp.Properties.Resources.resources
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones con Arreglos Csharp.csproj.GenerateResource.Cache
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\bin\Debug\Operaciones con Arreglos Csharp.exe.config
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\bin\Debug\Operaciones con Arreglos Csharp.exe
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\bin\Debug\Operaciones con Arreglos Csharp.pdb
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones con Arreglos Csharp.exe
+C:\Users\josed\Documents\Visual Studio 2017\Projects\Operaciones con Arreglos Csharp\obj\Debug\Operaciones con Arreglos Csharp.pdb

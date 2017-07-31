@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+  <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" text="Conejos Tiernos" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2">
+       <children>
+           <Label alignment="CENTER" contentDisplay="CENTER" text="Conejos Maduros" textAlignment="CENTER">
+               <font>
+                   <Font name="System Bold" size="20.0" />
+               </font>
+           </Label>
+       </children>
+   </HBox>
+       <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" GridPane.rowIndex="1">
+       <children>
+           <Label alignment="CENTER" contentDisplay="CENTER" text="Tiempo de Procreación" textAlignment="CENTER">
+               <font>
+                   <Font name="System Regular" size="14.0" />
+               </font>
+           </Label>
+       </children>
+         <GridPane.margin>
+            <Insets left="30.0" />
+         </GridPane.margin>
+   </HBox>
+       <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" GridPane.rowIndex="2">
+           <children>
+               <Label alignment="CENTER" contentDisplay="CENTER" text="Parejas Iniciales" textAlignment="CENTER">
+                   <font>
+                       <Font name="System Regular" size="14.0" />
+                   </font>
+               </Label>
+           </children>
+         <GridPane.margin>
+            <Insets left="30.0" />
+         </GridPane.margin>
+       </HBox>
+       <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" GridPane.rowIndex="3">
+           <children>
+               <Label alignment="CENTER" contentDisplay="CENTER" text="Meses a evaluar" textAlignment="CENTER">
+                   <font>
+                       <Font name="System Regular" size="14.0" />
+                   </font>
+               </Label>
+           </children>
+           <GridPane.margin>
+               <Insets left="30.0" />
+           </GridPane.margin>
+       </HBox>
+       <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" GridPane.rowIndex="4">
+           <children>
+               <Label alignment="CENTER" contentDisplay="CENTER" text="Parejas por procreación" textAlignment="CENTER">
+                   <font>
+                       <Font name="System Regular" size="14.0" />
+                   </font>
+               </Label>
+           </children>
+           <GridPane.margin>
+               <Insets left="30.0" />
+           </GridPane.margin>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+         <children>
+            <TextField fx:id="txtTiempoTiernos" />
+         </children>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+           <children>
+               <TextField fx:id="txtTiernosIniciales" />
+           </children>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+           <children>
+               <TextField fx:id="txtTiempoTotal" />
+           </children>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+           <children>
+               <TextField fx:id="txtCantidad" />
+           </children>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+           <children>
+               <TextField fx:id="txtTiempoMaduros" />
+           </children>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+           <children>
+               <TextField fx:id="txtMadurosIniciales" />
+           </children>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
+           <children>
+               <Label fx:id="lblResultado" alignment="CENTER" contentDisplay="CENTER" textAlignment="CENTER" textOverrun="LEADING_ELLIPSIS">
+                   <font>
+                       <Font name="System Regular" size="14.0" />
+                   </font>
+               </Label>
+
+           </children>
+           <GridPane.margin>
+               <Insets />
+           </GridPane.margin>
+       </HBox>
+       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
+           <children>
+               <Button fx:id="btnResultado" mnemonicParsing="false" onMouseClicked="#btnResultado_Click" text="Ver Resultado">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font></Button>
+           </children>
+       </HBox>
+
+   </children>
+</GridPane>

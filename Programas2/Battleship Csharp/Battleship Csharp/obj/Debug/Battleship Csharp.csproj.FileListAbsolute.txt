@@ -1,0 +1,9 @@
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\bin\Debug\Battleship Csharp.exe.config
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\bin\Debug\Battleship Csharp.exe
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\bin\Debug\Battleship Csharp.pdb
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\obj\Debug\Battleship Csharp.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\obj\Debug\Battleship_Csharp.Form1.resources
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\obj\Debug\Battleship_Csharp.Properties.Resources.resources
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\obj\Debug\Battleship Csharp.csproj.GenerateResource.Cache
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\obj\Debug\Battleship Csharp.exe
+C:\Users\josed\Documents\Bethel trainning\Programas2\Battleship Csharp\Battleship Csharp\obj\Debug\Battleship Csharp.pdb

@@ -1,0 +1,6 @@
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Sueldomo\Sueldomo\bin\Debug\Sueldomo.exe.config
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Sueldomo\Sueldomo\bin\Debug\Sueldomo.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Sueldomo\Sueldomo\bin\Debug\Sueldomo.pdb
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Sueldomo\Sueldomo\obj\Debug\Sueldomo.csprojResolveAssemblyReference.cache
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Sueldomo\Sueldomo\obj\Debug\Sueldomo.exe
+C:\Users\josed\Documents\Bethel trainning\Ejercicios C#\Sueldomo\Sueldomo\obj\Debug\Sueldomo.pdb

@@ -1,0 +1,29 @@
+Mes 0
+Tiernos: 1	En espera: 0 	Adultos: 0 	Parejas: 1
+
+Mes 1
+Tiernos: 0 	En espera: 1 	Adultos: 0 	Parejas: 1
+
+Mes 2
+Tiernos: 1 	En espera: 0 	Adultos: 1 	Parejas: 2
+
+Mes 3
+Tiernos: 1	En espera: 1 	Adultos: 1 	Parejas: 6
+
+Mes 4
+Tiernos: 2 	En espera: 1 	Adultos: 2 	Parejas: 10
+
+Mes 5
+Tiernos: 3	En espera: 2 	Adultos: 3 	Parejas: 16
+
+Mes 6
+Tiernos: 5 	En espera: 3	Adultos: 5 	Parejas: 26
+
+Mes 7
+Tiernos: 8 	En espera: 5 	Adultos: 8 	Parejas: 42
+
+Mes 8
+Tiernos: 13 	En espera: 8 	Adultos: 13 	Parejas: 68
+
+Mes 9
+Tiernos: 21 	En espera: 13 	Adultos: 21 	Parejas: 110

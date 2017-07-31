@@ -1,0 +1,5 @@
+﻿  resolvente.cpp
+c:\users\josed\documents\bethel trainning\ejerciciosc++\resolvente2\resolvente2\resolvente.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\josed\documents\bethel trainning\ejerciciosc++\resolvente2\resolvente2\resolvente.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Resolvente2.vcxproj -> C:\Users\josed\Documents\Bethel trainning\EjerciciosC++\Resolvente2\Debug\Resolvente2.exe
+  Resolvente2.vcxproj -> C:\Users\josed\Documents\Bethel trainning\EjerciciosC++\Resolvente2\Debug\Resolvente2.pdb (Partial PDB)
